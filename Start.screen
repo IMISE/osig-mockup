@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="224" y="-112" width="1129" height="721" text="Window" measuredWidth="1129" measuredHeight="721"/>
+  <widgets xsi:type="model:Text" id="10" x="664" y="-83" width="209" height="84" text="OSIG" measuredWidth="209" measuredHeight="84" foreground="#00f">
+    <font size="72px"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="18" x="320" y="128" width="236" height="37" text="Zieldefinition" measuredWidth="236" measuredHeight="37" background="#d9ead3">
+    <font size="15px"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="19" x="320" y="192" width="236" height="41" text="Arbeitspakete" measuredWidth="236" measuredHeight="41" background="#d9ead3">
+    <font size="15px"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="20" x="320" y="256" width="237" height="41" text="Interviewplanung" measuredWidth="237" measuredHeight="41" background="#f9cb9c" link="Planung.screen">
+    <font size="15px"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="21" x="319" y="320" width="240" height="41" text="Interviewdurchführung" measuredWidth="240" measuredHeight="41" background="#eee">
+    <font size="15px"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="22" x="319" y="384" width="240" height="41" text="Modellierung" measuredWidth="240" measuredHeight="41" background="#eee">
+    <font size="15px"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="23" x="319" y="448" width="241" height="41" text="Modellvalidierung" measuredWidth="241" measuredHeight="41" background="#eee">
+    <font size="15px"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="24" x="320" y="512" width="239" height="41" text="Zielabgleich" measuredWidth="239" measuredHeight="41" background="#eee">
+    <font size="15px"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="25" x="308" y="64" text="Auswahl der Systemanalyse" measuredWidth="258" measuredHeight="32" background="#d9ead3" borderColor="#00f">
+    <font size="20px"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="26" x="976" y="64" text="Projekt Augenklinik" measuredWidth="183" measuredHeight="32" background="#d9ead3" borderColor="#00f">
+    <font size="20px"/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="27" x="896" y="128" width="352" height="392" text="Status:&#xA;...&#xA;.." measuredWidth="352" measuredHeight="392">
+    <font size="19px"/>
+  </widgets>
+  <widgets xsi:type="model:SVGImage" id="28" x="1079" y="542" width="274" height="67" measuredWidth="274" measuredHeight="67" src="assets/imise-logo.svg"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

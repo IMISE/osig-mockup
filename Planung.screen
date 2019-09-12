@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="10" y="10" width="1129" height="721" text="Window" measuredWidth="1129" measuredHeight="721">
+    <note>- Aufgaben auswählen
+- Fragen werden dann in Frageboge übernommen </note>
+  </widgets>
+  <widgets xsi:type="model:Text" id="2" x="94" y="39" width="209" height="84" text="OSIG" measuredWidth="209" measuredHeight="84" foreground="#00f">
+    <font size="72px"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="10" x="94" y="186" text="Referenzmodell der fachlichen Ebene" measuredWidth="340" measuredHeight="32" background="#d9ead3" borderColor="#00f">
+    <font size="20px"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="13" x="384" y="60" width="424" height="41" text="Interviewplanung: Erstellung Fragebogen " measuredWidth="424" measuredHeight="41" foreground="#00f">
+    <font size="32px"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="14" x="202" y="144" text="Template-Auswahl &quot;Fachliche Ebene&quot; anhand der Rolle (Pflege, Ärzte, Verwaltung...)" measuredWidth="745" measuredHeight="25">
+    <font size="20px"/>
+  </widgets>
+  <widgets xsi:type="model:SVGImage" id="16" x="864" y="664" width="274" height="67" measuredWidth="274" measuredHeight="67" src="assets/imise-logo.svg"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
