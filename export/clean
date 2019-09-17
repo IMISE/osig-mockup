@@ -1,0 +1,4 @@
+magick Planung.png empty.png -compose difference -composite -negate Planung2.png
+magick Start.png empty.png -compose difference -composite -negate Start2.png
+magick Interviewmaske.png empty.png -compose difference -composite -negate Interviewmaske2.png
+

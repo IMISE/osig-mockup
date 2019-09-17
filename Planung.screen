@@ -17,6 +17,19 @@
     <font size="20px"/>
   </widgets>
   <widgets xsi:type="model:SVGImage" id="16" x="864" y="664" width="274" height="67" measuredWidth="274" measuredHeight="67" src="assets/imise-logo.svg"/>
+  <widgets xsi:type="model:Accordion" id="17" x="94" y="217" width="643" height="392" text="Patientenbehandlung&#xA;- Patientenaufnahme&#xA;- Durchführung diagnostischer Maßnahmen&#xA;- Leistungsanforderung&#xA;- ...&#xA;- Entlassung&#xA;Ressourcenplanung&#xA;Verwaltung&#xA;Leitung&#xA;Forschung und Lehre&#xA;" measuredWidth="643" measuredHeight="392" selection="0">
+    <items x="0" y="2" width="643" height="25" text="Patientenbehandlung"/>
+    <items x="0" y="27" width="643" height="25" text="- Patientenaufnahme"/>
+    <items x="0" y="52" width="643" height="25" text="- Durchführung diagnostischer Maßnahmen"/>
+    <items x="0" y="77" width="643" height="25" text="- Leistungsanforderung"/>
+    <items x="0" y="102" width="643" height="25" text="- ..."/>
+    <items x="0" y="127" width="643" height="25" text="- Entlassung"/>
+    <items x="0" y="292" width="643" height="25" text="Ressourcenplanung"/>
+    <items x="0" y="317" width="643" height="25" text="Verwaltung"/>
+    <items x="0" y="342" width="643" height="25" text="Leitung"/>
+    <items x="0" y="367" width="643" height="25" text="Forschung und Lehre"/>
+    <font/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>
